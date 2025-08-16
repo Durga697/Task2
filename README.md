@@ -32,6 +32,9 @@ Sample PDF Output
 
 📄 movie_dataset_report.pdf (auto-generated)
 
+[Movies.pdf](https://github.com/user-attachments/files/21808262/Movies.pdf)
+
+
 🔮 Future Improvements
 
 Add Bollywood, Korean, Anime datasets
